@@ -1,17 +1,28 @@
-- 👋 Eu sou a Ana Clara
-- 👀 Eu gosto de aprender novos idiomas, além de tecnologia e música.
-- 🌱 Eu estou interessada em melhorar as minhas habilidades em tecnologia, mais especificamente no back-end, por isso procuro sempre estudar inglês, matemática e linguagens de programação, tipo python.
-- 🌎 Eu sou do Brasil.
+## ## Oiii eu sou a Ana Clara, estudante de ciência de dados na UniCeub em Brasília - DF
 
-- 👋 Hi, I’m @ACNA09, my name is Ana Clara.
-- 👀 I’m interested in technology, music and languages.
-- 🌱 I’m currently learning things to increase my skills in the technology are, like learn english, math and programing languages, like python.
-- 🌎 I'm from Brazil.
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+</div>
+  
+  ##
+ 
+<div> 
+  <a href = "anaclarabom06@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+<hr/>
+
+### 
+
+<div align="center">
+<a href="https://github.com/ACNA09">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=sophia473&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sophia473&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</a>
+</div>
 
 
-
-
-<!---
-ACNA09/ACNA09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
