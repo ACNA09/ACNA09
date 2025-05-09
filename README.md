@@ -1,4 +1,4 @@
-## ## Oiii eu sou a Ana Clara, estudante de ciência de dados na UniCeub em Brasília - DF
+Oi, eu sou a Ana Clara, estudante de ciência de dados na UniCeub em Brasília - DF
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
