@@ -1,5 +1,5 @@
-Oi, eu sou a Ana Clara, estudante de ciência de dados na UniCeub em Brasília - DF
-
+Hi, I'm Ana Clara, I'm doing data science and machine learning in the college.
+Oi, eu sou a Ana Clara, eu faço ciência de dados e aprendizado de Máquina.
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
